@@ -52,6 +52,7 @@ Prerequisites
 -Git: For cloning the repository (optional but recommended)
 
 Installation Steps
+
 1.Clone the Repository:
 
 bash
